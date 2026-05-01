@@ -52,7 +52,7 @@ a {
 .card {
     
     max-width: 30vw;
-    width: 20vw;
+    width: 21vw;
     background: linear-gradient(hsl(41, 100%, 11%),
      hsl(41, 100%, 17%));
     border: hsl(41, 100%,0%) solid 2px;
