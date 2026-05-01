@@ -3,12 +3,12 @@ export const products = [
     {
         type: 'riba',
         name: 'семга-тунец маслянная',
-        image: './riba/semtunmas.jpg'
+        image: 'riba/semtunmas.jpg'
     },
     {
         type: 'riba',
         name: 'Шампур',
-        image: './riba/shampur.jpg'
+        image: 'riba/shampur.jpg'
     },
     {
         type: 'riba',
