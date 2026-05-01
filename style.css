@@ -52,14 +52,14 @@ a {
 .card {
     
     max-width: 30vw;
-    width: 26vw;
+    width: 20vw;
     background: linear-gradient(hsl(41, 100%, 11%),
      hsl(41, 100%, 17%));
     border: hsl(41, 100%,0%) solid 2px;
     padding: 2rem;
     border-radius: 2rem;
     transition: transform .3s ease-out;
-    height: 40vw;
+    height: 50vw;
     margin: 0.75rem;
     &:hover {
         transform: scale(1.02);
