@@ -71,10 +71,10 @@ a {
     justify-self: center;
     display:  block;
     position: relative;
-    top: -22px; /* Отрицательное значение = выше */
+    top: -25px; /* Отрицательное значение = выше */
     margin-bottom: -30px;
-    width: 177px;
-    height: 177px;
+    width: 150px;
+    height: 150px;
     border-radius: 1rem;
     
     border: 2px solid black;
