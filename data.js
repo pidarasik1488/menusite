@@ -1,10 +1,6 @@
 export const products = [
     //рыбное:
-    {
-        type: 'riba',
-        name: 'семга-тунец маслянная',
-        image: 'semtunmas.jpg'
-    },
+    
     {
         type: 'riba',
         name: 'Шампур',
@@ -105,5 +101,10 @@ export const products = [
         type: 'nabor',
         name: 'Биг сет',
         image: 'nabor1.jpg'
+    },
+    {
+        type: 'nabor',
+        name: 'Маленький набор',
+        image: 'semtunmas.jpg'
     },
 ]
