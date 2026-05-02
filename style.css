@@ -84,11 +84,12 @@ a {
     grid-template-rows: repeat(2, 1fr);
     grid-template-columns: 1fr;  /* Одна колонка на всю ширину */
     row-gap: 0.5rem;
-    margin-top: 0.5rem;
+    margin-top: 0.1rem;
 }
 .card-title {
     
     font-size: 1.2rem;
+    justify-self: top;
     text-align: center;  /* Центрируем текст */
     word-wrap: break-word;  /* Переносим длинные слова */
     overflow-wrap: break-word;
